@@ -1,0 +1,5 @@
+This is patch directory
+
+cd WORKING_DIR
+sh device/condor/gnsz6753_66_n/patches/install.sh
+sh device/condor/gnsz6753_66_n/patches/uninstall.sh
