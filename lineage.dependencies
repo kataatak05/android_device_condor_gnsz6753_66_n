@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "kataatak05/android_vendor_condor_gnsz6753_66_n",
+    "target_path": "vendor/condor/gnsz6753_66_n",
+    "branch": "LineageOS-14.1"
+  }
+] 
